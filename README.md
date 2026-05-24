@@ -45,4 +45,4 @@ This is not targeting elite athletes. They likely have coaches and people that k
 # References
 ## Lore of Running
 ## Couch to 5K
-## Jess Galloway
+## Jeff Galloway
