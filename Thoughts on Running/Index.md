@@ -6,5 +6,8 @@ longform:
   sceneFolder: /
   scenes:
     - Executive Summary
+    - Who is this guide for
+    - About me
+    - Disclaimer
   ignoredFiles: []
 ---
