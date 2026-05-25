@@ -1,7 +1,7 @@
 # About me
 Who am I, and why might you consider listening to me? 
 
-I am now in my 40's, and have been running fairly consistently since I was a teenager. I was never elite, but did rise to the level of enthusiastic amateur.
+I am a runner. I have been for as long as I can remember. I recall coming second in my year 4 cross country race and being displeased. I am now in my 40's, and have been running fairly consistently since my early teens. I was never elite, but did rise to the level of enthusiastic amateur.
 I have run several marathons, even a few ultra marathons, many half marathons, 10kms, parkruns, etc. I have logged around 10,000kms on Strava, and many kilometers before that site existed. I have reasonable PB's of 35mins for 10k, 77 minutes for half marathon. My chief training partner (and sister) represented Australia in the 100km road world championships. 
 
 In short, I have spent a lot of time running, talking about running, recovery from running, thinking about running, being injured because of running, and reading about running. I have made lots of mistakes, and learned lots of things the hard way.
