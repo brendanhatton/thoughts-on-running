@@ -4,3 +4,5 @@ At most you might think of a monthly check in, but better is to think about wher
 Consistency is your friend. You want to be sustainable, consistent and enjoy the journey, not just focus on the destination. 
 
 Trying to run too far, too fast, will guarantee illness and / or injury, forcing you to stop running and slowing down your long term progress. 
+
+To give some perspective, a famous Australian running coach once said "after a runner has been on a high volume program (150kms+ per week) for three or four years, then you'll know what they are capable of". 
