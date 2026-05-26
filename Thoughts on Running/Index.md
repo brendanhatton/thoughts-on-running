@@ -6,8 +6,18 @@ longform:
   sceneFolder: /
   scenes:
     - Executive Summary
-    - Who is this guide for
-    - About me
-    - Disclaimer
+    - Prelude
+    - - Who is this guide for
+      - About me
+      - Disclaimer
+    - Getting started
+    - Principles of running
+    - - Patience
+      - Consistency
+      - Three dimensions
+    - Three key workouts
+    - - Long run
+      - Intervals
+      - Hills
   ignoredFiles: []
 ---

@@ -1,0 +1,3 @@
+[[Patience]]
+[[Consistency]]
+[[Three dimensions]]
