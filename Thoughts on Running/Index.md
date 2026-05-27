@@ -19,5 +19,6 @@ longform:
     - - Long run
       - Intervals
       - Hills
+    - Injury prevention
   ignoredFiles: []
 ---

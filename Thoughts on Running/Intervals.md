@@ -17,3 +17,4 @@ As you increase the load here, be careful to increase either intensity or distan
 
 Most runners have only a small part of their training as high intensity, so intervals should only form a small part of your overall weekly kilometres. This is because high intensity work is considered a high risk of injury - but they pack a punch! Think of is as the chilli powder of running, to be used sparingly. That metaphor also works because it hurts, sort of in a good way. 
 
+Some interesting research from [Lore of Running](https://www.runnersworld.com/advanced/a20805321/the-lore-of-running/) is that your body takes around two weeks to show any benefit from speed work. Which both gives an idea of how long improvements take to become visible or significant, but also a point that you should reduce speed work in the two weeks before any big race. More on this later in race preparation.
