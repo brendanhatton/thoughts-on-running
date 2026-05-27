@@ -20,5 +20,8 @@ longform:
       - Intervals
       - Hills
     - Injury prevention
+    - Recovery
+    - The body's energy systems
+    - The body's fuel systems
   ignoredFiles: []
 ---
