@@ -1,5 +1,4 @@
 # Hills
-
 Hills are the third of the key workouts, and deliberately so. While hill sessions generally contribute less than either long runs or intervals, they are still very valuable. 
 
 Having the strength to take on hills without having your body freak out feels really good. Hills are also a good way to strengthen your muscles and tendons without needing to run too far.
@@ -35,5 +34,6 @@ If you want to add a hill specific session, the approach is similar to an interv
 * On your long run, start planning it to include some hills
 * When you are on the hills, remember to focus on your form and being strong
 * Make sure you keep your head and torso up, and are using your glutes and calves
-* The more hills you cover throughout your other sessions, the stronger you will become
+* The more hills you cover throughout your sessions, the stronger you will become
 * If you only have one or two hills available, nothing stops you making that a loop that you repeat a few times in the middle of your run
+* Prioritise the hill effort. You will gain more from pushing up the hill and then slowing down to recover than from slowing down as you climb the hill

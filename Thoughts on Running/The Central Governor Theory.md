@@ -1,5 +1,4 @@
 # The Central Governor Theory
-
 Tim Noakes explains part of training adaption and the way the body works in [Lore of Running](https://openlibrary.org/books/OL22076478M/Lore_of_running) by his theory of a Central Governor.
 
 His theory is that part of the brain acts as a safeguard when we are exercising, preventing us from being able to exercise our way to death. This part of the brain is quite cautious, and as we undertake strenuous exercise, it will limit the amount of the bodies resources the exercise is allowed to take. This will force the body to slow down, and / or stop, to prevent us going near the point where we might endanger ourselves, such as not having enough energy available for the brain.

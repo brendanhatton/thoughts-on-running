@@ -1,5 +1,4 @@
 # The body's fuel systems
-
 You are running comfortably below your aerobic threshold, your muscles are ticking along nicely, your oxygen supply is keeping up - why can't you just keep going indefinitely? What eventually stops you?
 
 Fuel is probably the answer.
