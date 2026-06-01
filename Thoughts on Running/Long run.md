@@ -6,7 +6,7 @@ A long run is just that, a run that is significantly longer than your other runs
 ## How to start
 Of course having read the importance of patience and consistency, you wouldn't jump in to anything significantly longer than your current sessions, would you? Good, I thought not.
 
-Start by picking a day that gives you enough time. Sunday morning is the most popular time for long runs, but whenever works for you. Make your first run the same distance as you have been running. The next week, increase it by five minutes. Then next week, a few minutes more. Continue slowly and surely on your way.
+Start by picking a day that gives you enough time. Sunday morning is the most popular time for long runs, but whenever works for you. Make your first run the same distance as you have been running. The next week, increase it by five minutes. Then next week, a few minutes more. Continue gradually and consistently.
 
 If you have to miss a week, don't stress. If you can swap one of your other sessions for the long run, do that. If you can't, just replay the session you would have done - don't try to catch up to the distance where you would have been without missing one. There are no shortcuts. 
 

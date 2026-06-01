@@ -1,0 +1,11 @@
+# The Central Governor Theory
+
+Tim Noakes explains part of training adaption and the way the body works in [Lore of Running](https://openlibrary.org/books/OL22076478M/Lore_of_running) by his theory of a Central Governor.
+
+His theory is that part of the brain acts as a safeguard when we are exercising, preventing us from being able to exercise our way to death. This part of the brain is quite cautious, and as we undertake strenuous exercise, it will limit the amount of the bodies resources the exercise is allowed to take. This will force the body to slow down, and / or stop, to prevent us going near the point where we might endanger ourselves, such as not having enough energy available for the brain.
+
+One of the convincing arguments is that endurance athletes in long events (marathons, ironman triathlons etc), could be pushing themselves at the limit of what they believe is physically possible for hours - and yet, when they see and hear the finish line, the feeling of fatigue vanishes, and they are able to almost sprint the last kilometre. How and why is this possible? The body didn't get any extra resources. The athletes were trying as hard as they could already. The only thing that changed was the brain knowing that the end was in sight - so maybe the Governor knows it is now safe to allow the body to use more resources, because the body is not in danger.
+
+Noakes believes that interval training is a key method of teaching the Central Governor that we can exercise at high levels of intensity safely (ie, without dying) - and so the next time we run at that level of intensity, the Governor will allow us more of the bodies available resources, and we can run further and faster before it will throttle us. 
+
+Under this model, intervals are training part of your brain, as well as your body, which I think is super interesting. 

@@ -21,7 +21,11 @@ longform:
       - Hills
     - Injury prevention
     - Recovery
-    - The body's energy systems
-    - The body's fuel systems
+    - How training works
+    - The body
+    - - The body's energy systems
+      - The body's fuel systems
+      - The Central Governor Theory
+      - Running form
   ignoredFiles: []
 ---
