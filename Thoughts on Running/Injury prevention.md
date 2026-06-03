@@ -39,3 +39,18 @@ The general idea is that you want some exercises targeting the major muscles:
 * calves
 
 Like all training, introduce it gradually, make it consistent, and slowly increase the load. 
+
+## Listen to the niggle
+Most running injuries start small. Something feels a bit tight, or a bit sore. It might be while you are running or after you finish. Unless you are in your early 20's or younger, you can't outrun a niggle. You will just make it worse. So now, when I am running and feel a sudden niggle I give myself about five steps to see if it goes away. If it doesn't, I will stop and give it a quick massage, and stretch around, above, and below it. For example, I had some random knee pain while running this week. I stopped, stretched my quad, hip flexor, and hamstring for a couple of minutes, then started again and the pain had gone. Maybe it would have gone anyway. Or maybe it was the start of a weeks long injury. Who knows, but the five minute investment seems worth it to me. If, after a stretch break you still feel pain, then try walking for a few minutes. If it is still painful, pull the pin on your run. Try to get home in whatever way places the least exertion on your body. By stopping early, you can avoid turning a small problem into a big problem, and will be back running injury free much faster.
+
+## Rehab
+So you've been injured. You were smart and didn't try to push through. The immediate pain is over. What next?  
+First, I'd like to remind you of the [[Disclaimer]] - I am not a medical professional, this is not medical advice. This is my experience, and if you choose to follow it, you do so at your own risk.
+So, in my experience:
+Rest alone will usually not be enough to get you better - or at least not in a timely fashion. The principle of recovery  is to load, without overloading. 
+You want to load the damaged muscle / tendon so that it stimulates growth and strengthening, without overloading it and creating more damage. This is why most prescribed recovery exercises will be initially non weight bearing, then weight bearing, and only right at the end, with impact (ie, running or similar). Each stage represents an increasing demand on your body, and overloading at any point takes you back a step by causing more damage. As with anything related to training the body, gradually increase the load, without overloading, and your body will adapt over time.
+
+A really interesting approach along these lines was this video about micro dosing running to fix a chronic achilles injury - https://www.youtube.com/watch?v=DVcB57WWFFw
+(summary - man uses 3 tiny runs each day to fix his chronic achilles pain. ie, he loads it frequently without overloading it, gradually increases the load , and it works!)
+
+A word on physiotherapists - they can be absolute lifesavers. I have worked with many over the years, some amazing, some less so. I would say you need to be discerning in your choice of physio - ideally ask your running friends for a recommendation. Or research a physio near you on running groups or affiliated in some way with runners. If that doesn't help, at least look for sports physio, and give them a call asking if there is a specific person that specialises in runners. A good physio that knows runners is going to be hugely valuable to you.

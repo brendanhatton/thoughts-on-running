@@ -3,8 +3,10 @@ The simplest way to get better at running is built on three key workouts, in ord
 1. A long run
 2. Intervals
 3. Hills
+4. [bonus] Conditioning
 
-Thats it. Do those three runs each week consistently, and you will improve. Keep it up for a year, gradually increasing the load, and you will improve _a lot_. This basic approach can work for any distance from 3km to marathon.
+Thats it. Do those three runs* each week consistently, and you will improve. Keep it up for a year, gradually increasing the load, and you will improve _a lot_. This basic approach can work for any distance from 3km to marathon.
+\* one conditioning workout will really help you out too. 
 
 Consistency is key. Getting running fit is like blowing up a leaky balloon. Regular, consistent effort works best. Too fast, and the balloon will pop (ie, you will get injured). Too slow, and so much air will have leaked out that you'll be going backwards. Every session serves to make you a little bit fitter, and over time your fitness will naturally return to its baseline. 
 
@@ -24,7 +26,7 @@ Prevention is better than cure, in most of life, but specifically referring to i
 [[Who is this guide for]]
 [[About me]]
 [[Disclaimer]]
-
+[[I am confused]]
 
 ---
 
@@ -35,6 +37,8 @@ This guide is intentionally quite basic, so will be of limited use to the other 
 
 I'd like to think there is something to offer for everyone else that wants to continue progressing their running journey!
 
+The goal of this guide is to increase your return on running investment. That is to say, given the time and energy you spend running, how do you see the most physical progression? 
+Note that I have left the mental health benefits of running out of this booklet altogether. If running the same way every day helps clear your head and sets you up for a good day, then go for it.  But if you look at the fast guys and wonder how they got there, and don't believe that you could ever get there, then this is for you. This is how they got there, and you can too. You just need enough patience and consistency.
 
 ---
 
@@ -58,6 +62,12 @@ _This website and its contents are not intended to replace professional medical 
 
 ---
 
+You read something different somewhere else. Or saw a video with advice that conflicts with what is here. Or this just doesn't feel right. And now you are confused. Unfortunately, there is no avoiding it, so get used to it.
+
+There are billions of perspectives in the world, billions of experiences, countless attempts by people to run faster or further. Some worked, some didn't. What I offer here is a collection of my experiences. I was curious, read a lot, cherry picked things that either worked for me, or made sense to me, and discarded things that didn't. And I encourage you to do the same - take on board the parts you either like, or make sense to you and discard the parts you don't. What works for one person might not work for a different person. So don't stress. When you read two contradictory statements, decide which one seems more credible to you and go with that. Then test the theory and try to collect evidence to see if you were right, and revisit your choice if not. Not many decisions in life are one way doors, you can change your mind and what you are doing at any time and try something different.
+
+---
+
 # Getting started
 I have been running for as long as I can remember. I didn't remember the feeling of starting from scratch, until my first big injury. I couldn't run at all for months. When I finally got the all clear, it was like I had never run, and I was starting from the couch. And it _sucked_. It suddenly dawned on me that this is what other people felt when they started running! This is why everyone else seems to complain about running, and thinks I am crazy for loving it. They don't know that _it gets better_. So, so much better! But starting out is hard. It hurts, it's uncomfortable, it's not fun, why would anyone keep it up?
 Well trust me, it's worth it. Just push through a few months of discomfort, and a whole world will open up to you, for the rest of your life. Once you are fit, running feels fantastic. There is a reason why running addicts are literally addicted - because it is awesome.
@@ -68,6 +78,7 @@ Some tips to help you get going:
 3. Find a dedicated, regular time. Everyone is busy, nobody has lots of spare time. But find a time that works for you and commit to it. Once you miss a few sessions, it is so easy to become demotivated and give up. But you can't reach that point if you don't miss the first one! Really commit, especially for the first few months when the habit is still forming.
 4. Bribe yourself. Get a coffee and / or croissant afterwards. Have a chocolate. Whatever short term bribe you need to get through the start and to the point where you can enjoy running for what it is. The long term exercise benefit once you form the habit will far outweigh any short term sugar based bribery you need to get there.
 5. Once you can cover 5kms, look into a local [parkrun](https://www.parkrun.com/). A free (completely free), casual 5km run (or walk) every week - and there are thousands around the globe. It's a great way to start the weekend, and can make a great commitment to a regular running routine.
+6. Within the first few weeks, pick a fun run that is a little bit scary, and enter it. Having a hard target date you are preparing for helps to keep you focused and motivated through the tough early stages.
 
 ---
 
@@ -270,6 +281,21 @@ The general idea is that you want some exercises targeting the major muscles:
 * calves
 
 Like all training, introduce it gradually, make it consistent, and slowly increase the load. 
+
+## Listen to the niggle
+Most running injuries start small. Something feels a bit tight, or a bit sore. It might be while you are running or after you finish. Unless you are in your early 20's or younger, you can't outrun a niggle. You will just make it worse. So now, when I am running and feel a sudden niggle I give myself about five steps to see if it goes away. If it doesn't, I will stop and give it a quick massage, and stretch around, above, and below it. For example, I had some random knee pain while running this week. I stopped, stretched my quad, hip flexor, and hamstring for a couple of minutes, then started again and the pain had gone. Maybe it would have gone anyway. Or maybe it was the start of a weeks long injury. Who knows, but the five minute investment seems worth it to me. If, after a stretch break you still feel pain, then try walking for a few minutes. If it is still painful, pull the pin on your run. Try to get home in whatever way places the least exertion on your body. By stopping early, you can avoid turning a small problem into a big problem, and will be back running injury free much faster.
+
+## Rehab
+So you've been injured. You were smart and didn't try to push through. The immediate pain is over. What next?  
+First, I'd like to remind you of the [[Disclaimer]] - I am not a medical professional, this is not medical advice. This is my experience, and if you choose to follow it, you do so at your own risk.
+So, in my experience:
+Rest alone will usually not be enough to get you better - or at least not in a timely fashion. The principle of recovery  is to load, without overloading. 
+You want to load the damaged muscle / tendon so that it stimulates growth and strengthening, without overloading it and creating more damage. This is why most prescribed recovery exercises will be initially non weight bearing, then weight bearing, and only right at the end, with impact (ie, running or similar). Each stage represents an increasing demand on your body, and overloading at any point takes you back a step by causing more damage. As with anything related to training the body, gradually increase the load, without overloading, and your body will adapt over time.
+
+A really interesting approach along these lines was this video about micro dosing running to fix a chronic achilles injury - https://www.youtube.com/watch?v=DVcB57WWFFw
+(summary - man uses 3 tiny runs each day to fix his chronic achilles pain. ie, he loads it frequently without overloading it, gradually increases the load , and it works!)
+
+A word on physiotherapists - they can be absolute lifesavers. I have worked with many over the years, some amazing, some less so. I would say you need to be discerning in your choice of physio - ideally ask your running friends for a recommendation. Or research a physio near you on running groups or affiliated in some way with runners. If that doesn't help, at least look for sports physio, and give them a call asking if there is a specific person that specialises in runners. A good physio that knows runners is going to be hugely valuable to you.
 
 ---
 

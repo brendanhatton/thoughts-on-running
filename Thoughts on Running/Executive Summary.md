@@ -3,8 +3,10 @@ The simplest way to get better at running is built on three key workouts, in ord
 1. A long run
 2. Intervals
 3. Hills
+4. [bonus] Conditioning
 
-Thats it. Do those three runs each week consistently, and you will improve. Keep it up for a year, gradually increasing the load, and you will improve _a lot_. This basic approach can work for any distance from 3km to marathon.
+Thats it. Do those three runs* each week consistently, and you will improve. Keep it up for a year, gradually increasing the load, and you will improve _a lot_. This basic approach can work for any distance from 3km to marathon.
+\* one conditioning workout will really help you out too. 
 
 Consistency is key. Getting running fit is like blowing up a leaky balloon. Regular, consistent effort works best. Too fast, and the balloon will pop (ie, you will get injured). Too slow, and so much air will have leaked out that you'll be going backwards. Every session serves to make you a little bit fitter, and over time your fitness will naturally return to its baseline. 
 

@@ -10,6 +10,7 @@ longform:
     - - Who is this guide for
       - About me
       - Disclaimer
+      - I am confused
     - Getting started
     - Principles of running
     - - Patience
@@ -27,5 +28,6 @@ longform:
       - The body's fuel systems
       - The Central Governor Theory
       - Running form
-  ignoredFiles: []
+  ignoredFiles:
+    - manuscript
 ---
