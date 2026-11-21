@@ -1,4 +1,6 @@
 # Executive Summary
+To get better at running, just run more. The number of kilometers you run each week is the biggest factor determining how fast and far you can run. Almost every time, someone running 10kms / week will be faster than someone that doesn't run. And someone that runs 50kms / week will be faster than someone at 10kms. And someone that runs 150kms / week will be faster than someone less than 100kms / week. But *how* you run these kilometers makes a big difference to your results.
+
 The simplest way to get better at running is built on three key workouts, in order of importance:
 1. A long run
 2. Intervals
@@ -6,9 +8,9 @@ The simplest way to get better at running is built on three key workouts, in ord
 4. [bonus] Conditioning
 
 Thats it. Do those three runs* each week consistently, and you will improve. Keep it up for a year, gradually increasing the load, and you will improve _a lot_. This basic approach can work for any distance from 3km to marathon.
-\* one conditioning workout will really help you out too. 
+\*one conditioning workout will really help you out too. 
 
-Consistency is key. Getting running fit is like blowing up a leaky balloon. Regular, consistent effort works best. Too fast, and the balloon will pop (ie, you will get injured). Too slow, and so much air will have leaked out that you'll be going backwards. Every session serves to make you a little bit fitter, and over time your fitness will naturally return to its baseline. 
+Consistency is key. Getting running fit is like blowing up a leaky balloon. Regular, consistent effort works best. Too fast, and the balloon will pop (ie, you will get injured). Too slow, and so much air will have leaked out that you'll be going backwards. Every session serves to make you a little bit fitter, but without training, over time your fitness will naturally decline to its baseline. 
 
 Once you have caught the running bug (and I guess the bug is why you are here), the biggest problem with consistency is injury. Injury is the bane of the runner, and is something I have struggled with my entire life. So the real key to progress is to be able to train consistently, in a way that avoids injury. 
 

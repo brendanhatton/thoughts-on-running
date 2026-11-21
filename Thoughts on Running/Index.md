@@ -28,6 +28,13 @@ longform:
       - The body's fuel systems
       - The Central Governor Theory
       - Running form
+    - Race day
+    - - Tapering
+      - Nothing new on race day
+      - Running the race
+      - After race day
+    - Kids and running
+    - References and recommended reading
   ignoredFiles:
     - manuscript
 ---

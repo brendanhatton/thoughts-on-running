@@ -9,3 +9,8 @@ Some tips to help you get going:
 4. Bribe yourself. Get a coffee and / or croissant afterwards. Have a chocolate. Whatever short term bribe you need to get through the start and to the point where you can enjoy running for what it is. The long term exercise benefit once you form the habit will far outweigh any short term sugar based bribery you need to get there.
 5. Once you can cover 5kms, look into a local [parkrun](https://www.parkrun.com/). A free (completely free), casual 5km run (or walk) every week - and there are thousands around the globe. It's a great way to start the weekend, and can make a great commitment to a regular running routine.
 6. Within the first few weeks, pick a fun run that is a little bit scary, and enter it. Having a hard target date you are preparing for helps to keep you focused and motivated through the tough early stages.
+
+# Just Do It
+Day one is so much better than one day.
+
+Don't overthink it. It's not complicated. People have been running for a long time. Just start today. Put on a pair of joggers and try it out. Maybe you start walking. Maybe you can jog to the end of the driveway, or the end of the street. That's great! Do what you can today, then do it again the day after tomorrow, then try to keep up a regular routine - and look at that, you're a runner!

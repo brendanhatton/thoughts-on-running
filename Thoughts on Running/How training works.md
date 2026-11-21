@@ -43,4 +43,4 @@ On the other hand, sometime that has reached a certain level of fitness and then
 
 
 ## Diminishing returns
-
+Training is subject the the law of diminishing returns - meaning that the fitter you get, the more training is required to get even fitter. So someone going from 0km / week to 10 km / week is going to have a huge jump in fitness level. But someone going from 50km / week to 60km / week will only get a little bit fitter, while someone going from 150km / week to 160km / week will have very little gains to show as a result.
