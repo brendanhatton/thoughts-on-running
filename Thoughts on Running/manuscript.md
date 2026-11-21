@@ -1,4 +1,6 @@
 # Executive Summary
+To get better at running, just run more. The number of kilometers you run each week is the biggest factor determining how fast and far you can run. Almost every time, someone running 10kms / week will be faster than someone that doesn't run. And someone that runs 50kms / week will be faster than someone at 10kms. And someone that runs 150kms / week will be faster than someone less than 100kms / week. But *how* you run these kilometers makes a big difference to your results.
+
 The simplest way to get better at running is built on three key workouts, in order of importance:
 1. A long run
 2. Intervals
@@ -6,9 +8,9 @@ The simplest way to get better at running is built on three key workouts, in ord
 4. [bonus] Conditioning
 
 Thats it. Do those three runs* each week consistently, and you will improve. Keep it up for a year, gradually increasing the load, and you will improve _a lot_. This basic approach can work for any distance from 3km to marathon.
-\* one conditioning workout will really help you out too. 
+\*one conditioning workout will really help you out too. 
 
-Consistency is key. Getting running fit is like blowing up a leaky balloon. Regular, consistent effort works best. Too fast, and the balloon will pop (ie, you will get injured). Too slow, and so much air will have leaked out that you'll be going backwards. Every session serves to make you a little bit fitter, and over time your fitness will naturally return to its baseline. 
+Consistency is key. Getting running fit is like blowing up a leaky balloon. Regular, consistent effort works best. Too fast, and the balloon will pop (ie, you will get injured). Too slow, and so much air will have leaked out that you'll be going backwards. Every session serves to make you a little bit fitter, but without training, over time your fitness will naturally decline to its baseline. 
 
 Once you have caught the running bug (and I guess the bug is why you are here), the biggest problem with consistency is injury. Injury is the bane of the runner, and is something I have struggled with my entire life. So the real key to progress is to be able to train consistently, in a way that avoids injury. 
 
@@ -62,6 +64,7 @@ _This website and its contents are not intended to replace professional medical 
 
 ---
 
+# I am confused
 You read something different somewhere else. Or saw a video with advice that conflicts with what is here. Or this just doesn't feel right. And now you are confused. Unfortunately, there is no avoiding it, so get used to it.
 
 There are billions of perspectives in the world, billions of experiences, countless attempts by people to run faster or further. Some worked, some didn't. What I offer here is a collection of my experiences. I was curious, read a lot, cherry picked things that either worked for me, or made sense to me, and discarded things that didn't. And I encourage you to do the same - take on board the parts you either like, or make sense to you and discard the parts you don't. What works for one person might not work for a different person. So don't stress. When you read two contradictory statements, decide which one seems more credible to you and go with that. Then test the theory and try to collect evidence to see if you were right, and revisit your choice if not. Not many decisions in life are one way doors, you can change your mind and what you are doing at any time and try something different.
@@ -79,6 +82,12 @@ Some tips to help you get going:
 4. Bribe yourself. Get a coffee and / or croissant afterwards. Have a chocolate. Whatever short term bribe you need to get through the start and to the point where you can enjoy running for what it is. The long term exercise benefit once you form the habit will far outweigh any short term sugar based bribery you need to get there.
 5. Once you can cover 5kms, look into a local [parkrun](https://www.parkrun.com/). A free (completely free), casual 5km run (or walk) every week - and there are thousands around the globe. It's a great way to start the weekend, and can make a great commitment to a regular running routine.
 6. Within the first few weeks, pick a fun run that is a little bit scary, and enter it. Having a hard target date you are preparing for helps to keep you focused and motivated through the tough early stages.
+
+# Just Do It
+Day one is so much better than one day.
+
+Don't overthink it. It's not complicated. People have been running for a long time. Just start today. Put on a pair of joggers and try it out. Maybe you start walking. Maybe you can jog to the end of the driveway, or the end of the street. That's great! Do what you can today, then do it again the day after tomorrow, then try to keep up a regular routine - and look at that, you're a runner!
+
 
 ---
 
@@ -304,9 +313,9 @@ Running doesn't make you faster or fitter. Recovery from running makes you faste
 
 The training itself is just the stimulus - the stress applied to your body that forces it to adapt. The changes (and improvements) actually happens during the recovery period that follows. When you rest, your muscles repair, your tendons strengthen, your cardiovascular system improves. Skip the recovery, and you're just repeatedly applying stress to a body that never quite gets the chance to respond to it. You'll feel tired, your performance will plateau or decline, and eventually something will break.
 
-For most of us, this isn't really an issue, or is an easy on to solve - only run every second day. 
+For most of us, this isn't really an issue, or is an easy one to solve - only run every second day. 
 
-Only when you start to get a bit more serious, and need to start connecting days, does it need to be any more complex than that. At that point, the rule changes to: don't run hard two days in a row. And try to space the same type of run out as far as possible - ie separate your long runs, and separate your intervals as much as you can, to give those specific parts of your body the best chance to recover.
+Only when you start to get a bit more serious, and need to start consecutive training days, does it need to be any more complex than that. At that point, the rule changes to: don't run hard two days in a row. And try to space the same type of run out as far as possible - ie, separate your long runs, and separate your intervals as much as you can, to give those specific parts of your body the best chance to recover.
 
 
 ---
@@ -356,8 +365,7 @@ On the other hand, sometime that has reached a certain level of fitness and then
 
 
 ## Diminishing returns
-
-
+Training is subject the the law of diminishing returns - meaning that the fitter you get, the more training is required to get even fitter. So someone going from 0km / week to 10 km / week is going to have a huge jump in fitness level. But someone going from 50km / week to 60km / week will only get a little bit fitter, while someone going from 150km / week to 160km / week will have very little gains to show as a result.
 
 ---
 
@@ -398,7 +406,7 @@ There are two strategies available
 ## Prevention
 Just, don't run out of fuel? Sure. So point one, the better trained you are, the more fuel your body will have (and the more efficiently it will use it). But if even the best runners will run out, what else can we do?
 Eat.
-Ingest carbohydrates, and have your body refuel while you are running. This is why runners eat gu's, have carbohydrates drinks, drink coke, eat boiled potatoes etc etc. The goal is to just get as much carbs into your body while you are running intensely as you can. But be sure not to upset your stomach. Shoving things in your mouth while you are running is not the hard part, having the gut that can digest it is the hard part. This too requires training. And as we will cover in race prep - nothing new on race day. This means either taking your own fuel to eat, or practising with what will be provided on race day beforehand. Rob de Castella had an unfortunate race day incident when he tried eating something new during a race that didn't agree with him. It was not pretty.
+Ingest carbohydrates, and have your body refuel while you are running. This is why runners eat gu's, have carbohydrates drinks, drink coke, eat boiled potatoes, etc etc. The goal is to just get as much carbs into your body while you are running intensely as you can. But be sure not to upset your stomach. Shoving things in your mouth while you are running is not the hard part, having the gut that can digest it is the hard part. This too requires training. And as we will cover in race prep - nothing new on race day. This means either taking your own fuel to eat, or practising with what will be provided on race day beforehand. Rob de Castella had an unfortunate race day incident when he tried eating something new during a race that didn't agree with him. It was not pretty.
 
 Note that the point of prevention is not to wait until you hit the wall to start eating - you will want to start early (even before the race starts) and consume relatively evenly throughout the event. (Although if you do have the misfortune of meeting a wall, eating will help get things back on track).
 
@@ -455,7 +463,7 @@ Story time: when I started running as a kid, my theory - which felt entirely log
 Anyhow, thinking about how you would run if you didn't have shoes vs how you run in shoes, the most noticeable difference is that you would greatly reduce your stride length, and increase your cadence. To give an idea, most elite runners run at a cadence of around 180 - but of course they also have a reasonable stride length, because they are going so fast! A shorter stride will prevent overstriding, is generally more efficient, and most importantly, reduces the impact of each stride.
 
 ### Overstriding 
-Overstriding is taking steps that are too large. More specifically, when you foot lands in front of your centre of gravity. This causes a couple of problems.
+Overstriding is taking steps that are too large. More specifically, when your foot lands in front of your centre of gravity. This causes a couple of problems.
 * Applying the brakes at each step. Think about what happens when your take big steps that start well in front of you: you're repeatedly extending your foot out in front of your centre of mass and then putting your full weight onto it. From a momentum perspective, this is like applying a small brake with every single step. Your weight is now ahead of you, and you have to work to get up and over it before you can drive forward again. Do this tens of thousands of times in a race and you've wasted a huge amount of energy that could have been spent on moving forward instead
 * Vertical movement. In order to take these big steps, you are much more likely to bounce up and down higher than you would taking smaller steps. Given races are usually horizontal, vertical movement doesn't really help and should be minimised. Think about the maths- lets say you take 40,000 steps in a marathon. If each step incurs 10cm of vertical movement, thats 4 kilometres of vertical - almost half way up Mount Everest! Or over 1000 flights of stairs - in addition to the 42 kilometres of horizontal movement! Imagine racing against someone else that only moved 8cm vertically each step, they would remove 800m (approximately 300 flights of stairs) of vertical climb from their race!
 * The impact of impact. Related to vertical movement, the amount of force your body must absorb with each step is directly related to the height you are landing from. While the impact of a single stride is (hopefully) very small, the cumulative impact through your bones, joints, and tendons grows large. Reducing your vertical movement from 10cm to 8cm reduces this cumulative impact by 20%. To give you an idea, average runners will have around 10cm vertical per stride, while elite marathoners will be [about half that](https://runnersconnect.net/improve-your-vertical-oscillation-for-better-running-performance/).
@@ -474,6 +482,9 @@ Some runners manage to land on their toes. I have deliberately tried to figure o
 Like many, I was pretty inspired by [Born To Run](https://en.wikipedia.org/wiki/Born_to_Run_(McDougall_book)), and the idea that we have evolved for millions of years to learn to run without shoes, but have only been wearing shoes for ~100 years. It seems logical that our bodies would naturally be more suited to running barefoot. However our environment no longer really lets us - concrete, broken glass, other rubbish makes it hazardous where most of us live. However, this doesn't mean we can't learn anything from this line of thinking. Find a patch of grass — somewhere you're confident is free of anything that'll cut your feet — and go for a short jog without shoes. Pay attention to how you land. Notice what feels comfortable and what doesn't. Try varying your pace and observe how your stride naturally changes. Most people find, almost immediately, that they start taking shorter steps, their cadence picks up, and they become noticeably lighter on their feet. The reason is obvious once you experience it: without cushioning, landing heavily hurts. So your body stops doing it. Shoes, specifically cushioned shoes, stop this feedback, and allow you to run in a way that is unnatural for your body. Instead of getting direct feedback every step, shoes allow you to mask these problems... until they no longer can, and you get injured.
 It makes sense to me to think of what would be a natural stride if you were barefoot, and trying to preserve that style even when you are wearing shoes.
 
+## Running Surfaces
+Modern shoes do a lot of work absorbing the shock of each foot strike. We can also reduce the impact by running on softer surfaces - ie, get off the road. 
+
 ## Glutes
 The [Gluteus Maximus](https://en.wikipedia.org/wiki/Gluteus_maximus) is the largest muscle in the entire body, and is designed to move you forward. However, the modern lifestyle of sitting and being immobile for most of our time means that many people have under-active glutes. I strongly advise throwing some [glute activation exercises](https://www.runnersworld.com/uk/training/cross-training/a773632/glute-activation-exercises/) into your routine, and then consciously trying to activate them when you are running.
 
@@ -484,3 +495,153 @@ Hip flexors are the muscles at the front of your hips that connect to your thigh
 Pronation refers to the "rolling in" of the feet during the landing phase of each stride. Pronation is sometimes demonised, and targeted as a problem that needs to be "fixed" by specific footwear. However pronation is a perfectly normal feature of the body, and designed to help absorb of the shock of each foot strike. Without pronation, the impact will be taken on by the bones and other tendons and ligaments. 
 
 Having said that, it is possible to over pronate, which can cause problems. This is an area I am not super familiar with, so if you are concerned you should seek professional advice. Ideally from a specialist that is also a runner or knows how 'special' runners are.
+
+---
+
+# Race Day
+So the day you've been preparing for is finally here. How do you make the most of your training? Given the time, energy, effort and money that entering a race costs, most people understandably want to complete it as fast as they can.  Here is some advice I have learned along the way:
+
+
+
+---
+
+# Tapering
+Tapering is the idea of reducing your training load in the period before a big race, to allow your body to recover and be in peak condition for the big event. 
+There is a delay between a training session, and being faster. This is when your body adapts, which takes time. Any training that is so close to the race that the benefits won't land until after race day won't make you faster you on the day - and could actually make you slower, by creating fatigue that your body needs to recover from. For example, as a rule of thumb speedwork takes two weeks for the adaptions to make you faster. So speedwork in the two weeks before a race is unlikely to benefit you for that event.
+On the other hand, if you stop running altogether, fitness levels begin to erode within days - so you can't just do nothing (aside from the impact on confidence and your mental game). And muscles tighten up so that when you do try to run on race day, you'll probably feel bad.
+
+Tapering is the goal of reducing training load in a way that maximises your performance on a specific day. 
+
+The tapering rule of thumb from Lore of Running is to reduce volume, but maintain speed / intensity. So keep the similar sessions your normally would, but reduce the load gradually until it is very low just before race day.  For a marathon, a two week taper might be best, while for shorter races (or less serious races) you might only use one week, or ease off for a couple of sessions.
+
+
+
+---
+
+# Nothing new on race day
+The single most critical piece of advice is that as far as you possibly can, nothing should be new on race day. No new clothes, no new shoes, no new food or drinks, ideally no new terrain, and no new pace. 
+
+The only thing that shouldn't have been covered in training is the race pace and distance. 
+
+Shoes, clothes, hats, sunscreen etc are all things that should be very easy to test out beforehand. You want to know about things that might rub, chafe, cause blisters, etc etc.
+
+You'll want a low risk dinner the night before - I go for basic comfort food (spaghetti bolognaise). It's not the time to try something new or adventurous. Same goes for breakfast, make sure its something you are used to running with. It's not the time to try a third bowl of porridge, or a new super smoothie etc.
+
+Drinks and nutrition during the event are a little harder - particularly if you are relying on what will be provided along the course. But most races will provide some information about the brands and types of food and drink available on the way - its a good idea to try it out in a couple of training runs beforehand. You *really* don't want to discover on the day that the energy drink they provide on the course violently disagrees with your digestive system. You also might want to try out how much food works for you. For example, you might want to try consuming 50 grams of carbs every 10kms, or 20 every 5kms - you really want to work out what feels best for your body before race day. (For references, elites aim for 100-120 grams per hour).
+
+It's worth familiarising yourself with the course so you know where you are and whats coming up. Ideal is to run on the course beforehand. While that might not always be possible, you want to get as close to race day conditions in your training as you can. Think of things like:
+* What is the terrain? Hilly or flat?
+* What is the surface? Road, grass, fire trail, sand?
+* What will the temperature be likely to be?
+* How far apart are the aid stations? Will you need to carry water and food?
+* Are there single track sections to be aware of not getting stuck behind a large group of runners
+* What time of day will you be running?
+* Will there be river crossings, rock scrambling, 
+* Some trail runs have a mandatory equipment list. Practice carrying them (and know how to use them!)
+
+You want your training to get you as well prepared as possible by practising everything you might encounter during the race, so there is nothing new on race day.
+
+Training is prepaying pain. The more pain you put yourself through in training, the less you'll have on the race day!
+
+## Carb loading
+
+Carb loading is an idea of eating a heap of pasta / potatoes / rice the night before your run, so you can use it as fuel to get through the race. These days it has largely been replaced by fueling during the race. 
+To recap the nutrition section, most people will use carbs as their primary energy source. Most carbs are stored in the liver - enough for around 2 hours of relatively intense exercise - so it is good to make sure this it fully charged beforehand. But you can't go above 100% of your bodies capacity. Overeating the night before a race is just going to cause digestive issues before / during the race. The convenience of modern carb supplies (gels, gummies, drinks etc) means it is easier than ever to take on carbs during the race - keeping your body supplied with energy.
+
+---
+
+# Running the race
+
+The most efficient (and therefore fastest) race you can run is to run at an even pace that leaves you completely spent right at the finish line. This is because going faster uses more energy, so you'll have to slow down later in the race to compensate - but going slow and leaving some energy in reserve means you could have run faster. Now of course a precisely even pace that is the fastest you can run on the day is difficult to get right, but the closer you can get to that, the better your result will be.
+## How to pace
+Some runners like to run by feel, some stick to strict pacing schedules and some are in between. I would suggest setting that until you have a good feel for racing, set a target pace to start with, and go no faster than the target pace until at least halfway through. If you are still feeling good, then gradually start increasing the speed - but keep in mind the last 5kms feel a lot harder than the first 5kms, so wait until the last third (or beyond) before giving it everything. How to pick a target pace? Hopefully your training run has given you some idea of what's possible. There are calculators online that can convert the time at one distance to likely times as other distances - but keep in mind that you can run faster on race day than in training.
+
+## Perceived effort vs speed
+As your body fatigues, a few things happen - you will tend to slow down, your perceived effort (how hard it _feels_ like you are running) will increase, or both. This is because you become less efficient as you fatigue - which is why you can run the first kilometer faster and with less effort than the 23rd.
+
+Combining the knowledge that perceived effort increases as you fatigue, and that your goal is to run an even pace for the whole race, you need to start at what feels like a relatively easy pace, and gradually increase the perceived effort, so that your actual pace stays even.
+
+## Break the race into thirds (plus the start)
+I like to think of races in thirds - and this works for races of pretty much any distance. The first third is relatively easy, the middle third should feel 'ok', and the last third is where you spend anything you've got left. You can either use the kilometer markers, your GPSwatch, or landmarks to track your progress through the course and know when you are finishing each section. In longer races, thinking of running from the start all the way to the finish is daunting. Ignore anything beyond the first third - just focus on getting to point A, and then focus on getting to point B and so on. Sounds strange, but playing mental games with yourself really does help.
+
+## Warm up
+Ideally you can do some sort of warm up before the race starts - otherwise your heart rate will skyrocket and your muscles are at risk of exploding. A gentle jog, a few strides or run throughs and you should be good to go. 
+If you have to warm up standing in the crowd at the start line, do your best jogging on the spot, jumping jacks, high knees, heels up at the back etc. Anything to get the muscle temperature up and the heart working a little. The longer the race, the less energy you'll want to spend on a warm up - but a little is still valuable.
+## The start
+The start of a race is a bit special and deserves it's own section. Depending on the size and seriousness of the event, there might be official waves, or the whole thing might be self seeded. Your goal is to get through the first couple of kilometers as efficiently as possible. The ideal outcome is to be running at your desired pace in a straight line, and not having to dodge or get jostled by anyone - and that relies on somehow having a well organised self seeding. You want faster people to be in front of you, and slower people behind you - but thats easier said than done! Try and guess where you might want to be to start out. It's easy to get caught up in the energy and excitement and find yourself burning way too much energy by starting way too fast. After maybe a short spurt to get a bit of space, you want to take a few deep breathes, and make sure you are going relatively easy. The energy people spend ducking diving dodging and weaving in the first 500m could probably be worth a couple of minutes if the used it in the last few kms instead!
+
+## Nutrition
+You really want to eat as much as your body can tolerate - the more fuel you can take on, the more energy you'll have. The longer the race, the more important nutrition becomes. Your body can store upto around 2 hours of energy - beyond that you definitely need to eat. But even shorter races like a half marathon seem to feel better with some energy inputs. 
+
+## Cramps
+Cramps suck. They hurt, they're uncomfortable, and they slow you down. And sometimes it's hard to figure out why they happen. Cramps are involuntary muscle spasms, where the muscle will suddenly contract and there's nothing you can do but wait.
+The direct cause of cramps is like a short circuit - the nerves tell all the muscle fibres to contract all at once, so they do. But why the nerves do this is less clear. The current thinking is that most cramps are caused by fatigue or over-exertion - ie, pushing the muscles beyond what they have been trained to do. 
+Some older schools of thought linked cramps to low electrolytes especially sodium (ie salt) and magnesium - and while this might be the case for some people, supplementing them does not guarantee a cramp-free run. The most evidence for avoiding cramps is by training more.
+
+Fun side note - when running my first road marathon, I made just about every mistake there was to make. Undertrained, under fuelled, went out too hard, exploded right on the 30km mark. Anyhow, as I was about 5kms from the finish, struggling along trying not to die, I got a cramp in my calf. Then in my quad. Then my other calf. And hamstring. All within about 30 seconds. I lost my balance and fell, literally lying in a gutter for a couple of minutes, totally unable to stand up. A spectator looked down at me and said "Don't give up". I responded with something like "Yup, I'll keep going as soon as my legs start working again". So, yeah. cramps are no fun.
+
+## The wall
+The most famous element of any fun marathon. Hitting the wall, carrying an elephant, catching a piano - all nicknames for the indescribable feeling of your body running out of fuel. For most people. this means carbs, and switching to what is generally an untrained source of energy, fat.. It's literally like you just ran out of petrol. At one point, you're relatively cruising along thinking maybe you'll somehow get away with it and make it to the finish line. Then all of a sudden, the lights will dim. Your vision will go funny. You body will lose the ability to obey you. Moving forward at an sort of speed just isn't possible. You literally have run out of petrol. Your body has consumed all the carbs that were available, so now its stopped. 
+You won't actually die, because you have plenty of fat available - but for most people that haven't trained to use fat, your available power might only be 25% of what it was. The physics means you can't possibly move anywhere near as fast as you were, until you can make more of your bodies preferred fuel source available again. You make this available by eating and drinking as many carbs as you can, trying to kick start your body again - but its going to take some time for your body to recover. 
+Which is why prevention is much better than cure - and prevention for hitting the wall is largely eating enough through to race to prevent it, and having done enough training to prepare your body to get to the finish line.
+
+---
+
+# After race day
+You ran the race and you survived, woohoo and congrats! I hope you enjoyed the day, and feel like you did your best.
+
+## Post race blues
+Something that surprised me after my first big race was the blues that hit. My goal was done, I didn't really have anything lined up next and just felt pretty bummed for a while. Rest assured, this is totally normal and lots of people experience it - it too shall pass. 
+
+Rest up, basking in the glory of your result (or licking your wounds / learning from mistakes). Maybe you want to look for another event to race in. Maybe you have sworn off running and never want to put on a pair of shoes again. In a few days, the pain will be forgotten and you'll probably just remember the good parts. And you'll want to do it again. But your mind and body needs to work through the post race comedown, so be patient.
+
+## Post race recovery
+Many events extract a huge toll on your body. Races are when we push ourselves further and faster than usual - maybe than ever before. Your body let you do that and got you to the finish line. But now you need to respect it. That effort and accomplishment comes with a price. You need to take it easy for the days and weeks after a race. The bigger the effort on race day, the longer the recovery. 
+
+Soon after the race finishes, start eating and drinking what you can. Rest, maybe gentle stretches, maybe a light massage. But ultimately it is time that will fix your body.
+
+When you feel ready you can start gently jogging again - but keep it easy and short for a few days. After a couple of weeks you can start easing back into regular training - but if in doubt, you want to allow more time for recovery rather than less. Resuming hard training too soon after a race will greatly increase your injury risk.
+
+---
+
+# Kids and running
+Lots of kids love running. But somewhere on the way, most lose the love for it - which is tragic. 
+
+Here are some not-fully-formed thoughts on kids and running:
+
+1. Keep it fun. Kids don't want to jog for a long time alone. Thats boring and no fun. Kids want to play games, have other kids involved, and most of all have fun For most kids, this means running is not the objective - tip, races, relays, other sports - these are how kids like to run. Don't impose structure on them, don't call it 'training' - just encourage them whenever you can.
+2. Keep it fast and short. If kids are interested in how to get faster or fitter, start with some pretty easy interval style sessions - ie, run a short distance and have a break. Repeat it a few times. Try and keep it fun (challenge them to beat a time, race them (and let them win), make it a relay etc)
+3. Role model - you don't need to invite or force them to go running with you. If you run regularly, eventually they'll want to join you - never ever ever say no! Throw your planned session out the window if you need do. Let them join in your warm up, or whatever it might be. 
+4. The goal is to get kids to have positive associations with running, not to get them fast. Don't make it serious, don't record times etc. Just make it a positive thing, to set them up for a life of enjoyable running. Late high school they _might_ start taking it more seriously, but until then don't stress about results. Make the activity the fun part - not the results.
+5. When they are ready, try and make it a routine. My kid and I do parkruns on saturday mornings. And then he gets a milkshake. I often walk / jog it with him. We sometimes spend most of the time chatting. He sometimes finishes near the back of the pack. I kerb my frustration, knowing that eventually he'll get faster. But he loves it, and wants to go every week. And thats my main goal for now. Him being fast now is nothing compared to raising a child that enjoys running for the rest of their life.
+6. Young kids don't need to run far! Young kids aren't built for long distances - 5kms is a super long way for anyone below 10, and for most kids below about 13. I don't think children need to focus on anything longer than 5-10kms until after high school. Instead, they can spend any extra effort that they want to on getting faster. Most elite runners started out being fast at short distances, and then increasing the length of their races - very rarely do people go the other way. It is much easier for a fast 800m runner to become a fast 10km runner, than for a slow 10km runner to become a faster 800m runner.
+
+
+
+---
+
+# References and recommended reading
+
+## Lore of Running
+The ultimate tome of running wisdom is [Lore of Running](https://www.google.com.au/books/edition/Lore_of_Running/TOcnAQAAIAAJ?hl=en) by Professor Tim Noakes. This book is a beast, but covers everything you could want to know about running science, and fact based running research etc. 
+
+## Born to Run
+[Born to Run](https://en.wikipedia.org/wiki/Born_to_Run_(McDougall_book)) is a very readable and interesting take on barefoot running and human evolution. 
+
+## Ultramarathon Man: Confessions of an All-Night Runner
+[Ultramarathon Man: Confessions of an All-Night Runner](https://www.goodreads.com/en/book/show/87632.Ultramarathon_Man) is an entertaining recollection of one man's journey to becoming a legendary ultra runner.
+
+# What I Talk About When I Talk About Running
+[What I Talk About When I Talk About Running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running) A recollection of the impact running has had on this Murakami's life
+
+## The terrible and wonderful reasons why I run long distances
+[The terrible and wonderful reasons why I run long distances](https://theoatmeal.com/comics/running) - a multi-part comic by The Oatmeal that is pretty on point.
+
+# The Perfect Mile
+[The Perfect Mile](https://en.wikipedia.org/wiki/The_Perfect_Mile) is a recount of the race to be the first person to run a sub 4 minute mile.
+
+## Heart of a Champion
+[Heart of a Champion](https://www.goodreads.com/en/book/show/7222184-heart-of-a-champion) is not specifically about running, but a recollection of the life and career of Greg Welch, a great Australian runner turned triathlete.
+
+## Jeff Galloway presentation
+A [video](https://www.youtube.com/watch?v=nQfOMrEEmF4) of Jeff talking to Google about his run walk run method of training and racing without injury
